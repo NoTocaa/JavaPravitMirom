@@ -1,3 +1,5 @@
+package Labs2;
+
 import java.util.List;
 
 public class InsertionSort implements Sorting<Integer> {
